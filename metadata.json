@@ -1,0 +1,7 @@
+{
+  "name": "AI Hairstyle AR Filter v1",
+  "description": "An AI-powered Snapchat-style AR filter that provides realistic hairstyle transformations based on face shape analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
